@@ -5,16 +5,16 @@
         "en-US": {
           "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open reindeer trivia",
-            "Alexa tell reindeer trivia to start a game",
-            "Alexa tell reindeer trivia I want to play"
+            "Alexa launch band trivia plamen",
+            "Alexa begin band trivia plamen",
+            "Alexa start band trivia plamen"
           ],
-          "name": "reindeer trivia",
+          "name": "band trivia",
           "description": "Sample Full Description"
         }
       },
       "isAvailableWorldwide": true,
-      "testingInstructions": "Sample Testing Instructions.",
+      "testingInstructions": "Sample Text.",
       "category": "KNOWLEDGE_AND_TRIVIA",
       "distributionCountries": []
     },
