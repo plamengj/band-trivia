@@ -1,33 +1,40 @@
-Regions: [🇯🇵](../../tree/ja-JP)
+# github repo
+https://github.com/plamengj/band-trivia
+
+#email
+English [Back to top]
 
 
+Dear Plamen,
 
-#  Build An Alexa Trivia Skill 🇺🇸
-<img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/fact/header._TTH_.png" />
+Thank you for submitting your skill, 'band trivia plamen', for certification review. You will be able to view the skill’s details in your ASK Developer Console within the next hour, including a certification results ETA under the Certification tab.
 
+All skills must pass the certification process before they can be published live to the Alexa Skill Store. Please review the submission checklist for an overview of our certification process, including policy guidelines, security requirements, functional tests, and user experience tests that will be performed on your skill.
 
-
-This Alexa sample skill is a template for a basic trivia skill. Provided a list of interesting questions about a topic, Alexa will select a question at random and ask it of the user when the skill is invoked.
-
-<!-- If you would like to see an example of this skill in action, you can enable the [Gloucester Facts](https://www.amazon.com/Robert-McCauley-Gloucester-Facts/dp/B01I5MOIA2/) from the [Alexa Skill Store](http://amazon.com/skills). -->
+If your skill does not meet Amazon's acceptance criteria, or we have a question about your skill during the review process, we will notify you by using the email address associated with your account and provide guidance on next steps.
 
 
-To **Get Started** click the button below:
+Please do not reply to this e-mail. To share specific feedback or receive additional clarity on your skill's certification results, please use our contact form here. Please note that you will be directed to a login page before submitting your feedback. Providing your skill's name and application ID will assist us in helping you as quickly as possible.
 
-[![Get Started](https://camo.githubusercontent.com/db9b9ce26327ad3bac57ec4daf0961a382d75790/68747470733a2f2f6d2e6d656469612d616d617a6f6e2e636f6d2f696d616765732f472f30312f6d6f62696c652d617070732f6465782f616c6578612f616c6578612d736b696c6c732d6b69742f7475746f7269616c732f67656e6572616c2f627574746f6e732f627574746f6e5f6765745f737461727465642e5f5454485f2e706e67)](./instructions/1-voice-user-interface.md)
+For other general questions, visit our Amazon-moderated forums or sign up to attend our Alexa Skills Kit weekly office hours.
+Additional links: Submission Checklist 
 
-Or click [here](./instructions/7-cli.md) for instructions using the ASK CLI (command line interface).
+Regards,
+The Alexa Skills Team
+Want to stay up to date on Alexa? Read recent news and updates on our blog or subscribe to our developer newsletter.
 
-## Additional Resources
+日本語 (Japanese) [Back to top]
 
-### Community
-* [Amazon Developer Forums](https://forums.developer.amazon.com/spaces/165/index.html) - Join the conversation!
-* [Hackster.io](https://www.hackster.io/amazon-alexa) - See what others are building with Alexa.
 
-### Tutorials & Guides
-* [Voice Design Guide](https://developer.amazon.com/designing-for-voice/) - A great resource for learning conversational and voice user interface design.
-* [Codecademy: Learn Alexa](https://www.codecademy.com/learn/learn-alexa) - Learn how to build an Alexa Skill from within your browser with this beginner friendly tutorial on Codecademy!
+Plamen 様
 
-### Documentation
-* [Official Alexa Skills Kit Node.js SDK](https://www.npmjs.com/package/ask-sdk) - The Official Node.js SDK Documentation
-*  [Official Alexa Skills Kit Documentation](https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html) - Official Alexa Skills Kit Documentation
+「band trivia plamen」を認定に申請いただき、ありがとうございました。申請後数時間以内にASK開発者コンソールでスキルの詳細を確認できるようになります。認定タブでは認定結果の通知予定日も確認できます。
+
+Alexa スキルストアにスキルを公開するには審査を通過する必要があります。審査プロセスではポリシー、セキュリティ、機能性、そしてユーザビリティの観点から確認を行います。プロセスの詳細は申請チェックリストをご確認ください。
+
+このEメールには返信しないでください。審査結果の内容に関して、更なる説明が必要な場合やご質問等がございましたら、こちらの問い合わせフォームからご連絡ください。その際、お問い合わせ内容の送信前にログインページにリダイレクトされます。できる限り迅速にサポートできるよう、スキル名およびアプリケーションIDの提供にご協力お願いいたします。
+その他一般的な質問については、Amazonが管理するフォーラムを参照してください。
+
+Alexaスキルチーム
+Alexaの最新のニュースやアップデートはAmazon 開発者 ブログ をご参照ください（日本語のみの情報をご希望の方は こちら をご参照ください）。または、Amazon 開発者ニュースレター へのご登録をお願いいたします。
+
