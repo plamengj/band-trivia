@@ -235,7 +235,7 @@ const languageString = {
     translation: {
       QUESTIONS: questions.QUESTIONS_EN_US,
       GAME_NAME: 'Band Trivia Plamen',
-      HELP_MESSAGE: 'I will ask you %s multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. ',
+      HELP_MESSAGE: 'I will ask you %s multiple choice questions. Respond with the number of the answer. For example, say one, two, three, four, five or six. To start a new game at any time, say, start game. ',
       REPEAT_QUESTION_MESSAGE: 'To repeat the last question, say, repeat. ',
       ASK_MESSAGE_START: 'Would you like to start playing?',
       HELP_REPROMPT: 'To give an answer to a question, respond with the number of the answer. ',
